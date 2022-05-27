@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - test
+  - settings
+  - New tag
+  - ground
+  - Enemy
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - brick
+  - boshy
+  - saw
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Saw
+    uniqueID: 1117167479
+    locked: 0
+  - name: Background
+    uniqueID: 2081251165
+    locked: 0
+  - name: brick
+    uniqueID: 4027565705
+    locked: 0
+  - name: boshy
+    uniqueID: 942149819
+    locked: 0
